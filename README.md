@@ -24,6 +24,7 @@ Output the image using cv2.imshow("OUTPUT", image)
 ## Program:
 
 Developed By:DHANASHREE M
+
 Register Number:212221230018
 
 ## i) Convert BGR and RGB to HSV and GRAY
