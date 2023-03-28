@@ -110,16 +110,14 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
-<br>
-<br>
+![dipex31](https://user-images.githubusercontent.com/94165415/228332594-70ac164c-59cb-4525-8e3c-549dafe32a90.png)
 
 ### ii) HSV to RGB and BGR
-<br>
-<br>
+![dipex32](https://user-images.githubusercontent.com/94165415/228332646-8fda8c57-be92-4b89-b249-0cf19c0df4b6.png)
+
 
 ### iii) RGB and BGR to YCrCb
-<br>
-<br>
+
 
 ### iv) Split and merge RGB Image
 <br>
